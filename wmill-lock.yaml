@@ -1,2 +1,3 @@
 version: v2
-locks: {}
+locks:
+  f/spark_ad_storage/hello_ldap: 8b2099abe0ffa6910d626ba541e3dbdbb2f0bb28a676483f9a70399254e2dfca

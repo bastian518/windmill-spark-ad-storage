@@ -1,0 +1,17 @@
+summary: hello_ldap
+description: hello_ldap
+lock: '!inline f/spark_ad_storage/hello_ldap.script.lock'
+has_on_behalf_of: false
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - no_default
+    - name
+    - age
+    - obj
+    - l
+    - file_
+  properties: {}
+  required: []
